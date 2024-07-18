@@ -1,0 +1,12 @@
+0  0   20   25  5
+
+
+#fitting = params[1]         # A bool to decide whether structures should be generated from a full fitting run, or just by comparison
+#full_library = params[0]    # A bool to decide whether a full library file is passed or not, if not, then pay attention to the following parameters
+#N_structures = params[2]    # The maximum number of structures to be generated
+#DP = params[3]              # The target DP of the structures
+#DP_range = params[4]        # The range of DPs we are interested in. i.e. Will generate lignin in the range DP+-DP_range 
+
+
+
+

@@ -1,0 +1,14 @@
+1   0   0   1  0   0   0
+
+#If set to zero, the corresponding value in initial_parameters_*.txt will not be varied
+#If set to one, the corresponding value in initial_parameters_*,txt will be varied
+
+
+# mon_add_rate
+# min_monomers
+# max_monomers
+# sg ratio
+# Multiplication factor for barriers to G-G lignin interactions
+# Multiplication factor for barriers to S-S lignin interactions
+# Multiplication factor for barriers to S-G lignin interactions
+

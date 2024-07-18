@@ -1,0 +1,8 @@
+100000000  0   1
+
+
+#max_time : maximum real_time value
+
+#Filewriting: 0 false, 1 true
+
+# CHOICE: 0 to carry out a new gridsearch, 1 to use pre-existing gridsearch data, 2 for the user to choose the starting point

@@ -1,0 +1,16 @@
+10       10     500     1     1 1	1
+#10      299     300     10     2   2   2
+
+#
+#
+
+
+
+
+# mon_add_rate
+# min_monomers
+# max_monomers
+# sg ratio
+# Multiplication factor for barriers to G-G lignin interactions
+# Multiplication factor for barriers to S-S lignin interactions
+# Multiplication factor for barriers to S-G lignin interactions
